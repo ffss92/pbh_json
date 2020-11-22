@@ -1,0 +1,5183 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.1151.Municipal.ESCOLA MUNICIPAL PRESIDENTE ITAMAR FRANCO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0266,
+                    -20.0123
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 1151,
+                "NOME": "ESCOLA MUNICIPAL PRESIDENTE ITAMAR FRANCO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "PERIMETRAL",
+                "NUMERO": 2911,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Petrópolis",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0266,
+                -20.0123,
+                -44.0266,
+                -20.0123
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.66.Municipal.ESCOLA MUNICIPAL CAIO LIBANO SOARES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9424,
+                    -19.9413
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 66,
+                "NOME": "ESCOLA MUNICIPAL CAIO LIBANO SOARES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CARANGOLA",
+                "NUMERO": 288,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santo Antônio",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9424,
+                -19.9413,
+                -43.9424,
+                -19.9413
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.223.Municipal.ESCOLA MUNICIPAL SANTO ANTONIO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9424,
+                    -19.9413
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 223,
+                "NOME": "ESCOLA MUNICIPAL SANTO ANTONIO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CARANGOLA",
+                "NUMERO": 288,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santo Antônio",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9424,
+                -19.9413,
+                -43.9424,
+                -19.9413
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.475.Municipal.ESCOLA MUNICIPAL CONSUL ANTONIO CADAR",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9271,
+                    -19.8507
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 475,
+                "NOME": "ESCOLA MUNICIPAL CONSUL ANTONIO CADAR",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PARNAIBA",
+                "NUMERO": 21,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Minaslândia",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9271,
+                -19.8507,
+                -43.9271,
+                -19.8507
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.81.Municipal.ESCOLA MUNICIPAL PROFESSOR TABAJARA PEDROSO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9786,
+                    -19.812
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 81,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR TABAJARA PEDROSO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "GERALDO ANUNCIACAO",
+                "NUMERO": 45,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Rio Branco",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9786,
+                -19.812,
+                -43.9786,
+                -19.812
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.270.Municipal.ESCOLA MUNICIPAL PROFESSOR PEDRO GUERRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9881,
+                    -19.8019
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 270,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR PEDRO GUERRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JOAO FERREIRA DA SILVA",
+                "NUMERO": 230,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Mantiqueira",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9881,
+                -19.8019,
+                -43.9881,
+                -19.8019
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.275.Municipal.ESCOLA MUNICIPAL MARIA DAS NEVES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9199,
+                    -19.928
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 275,
+                "NOME": "ESCOLA MUNICIPAL MARIA DAS NEVES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PIRANGA",
+                "NUMERO": 39,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Lucas",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9199,
+                -19.928,
+                -43.9199,
+                -19.928
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.539.Municipal.ESCOLA MUNICIPAL ARTHUR GUIMARAES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9616,
+                    -19.8981
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 539,
+                "NOME": "ESCOLA MUNICIPAL ARTHUR GUIMARAES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "AMERICO VESPUCIO",
+                "NUMERO": 1610,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Nova Esperança",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.9616,
+                -19.8981,
+                -43.9616,
+                -19.8981
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.620.Municipal.ESCOLA MUNICIPAL HERBERT JOSE DE SOUZA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9077,
+                    -19.8407
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 620,
+                "NOME": "ESCOLA MUNICIPAL HERBERT JOSE DE SOUZA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "DETETIVE EDUARDO FERNANDES",
+                "NUMERO": 320,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Novo Aarão Reis",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9077,
+                -19.8407,
+                -43.9077,
+                -19.8407
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.287.Municipal.ESCOLA MUNICIPAL IMACO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9359,
+                    -19.9313
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 287,
+                "NOME": "ESCOLA MUNICIPAL IMACO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "GONCALVES DIAS",
+                "NUMERO": 1180,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Boa Viagem",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9359,
+                -19.9313,
+                -43.9359,
+                -19.9313
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.244.Municipal.ESCOLA MUNICIPAL JONAS BARCELLOS CORREA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0299,
+                    -20.0155
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 244,
+                "NOME": "ESCOLA MUNICIPAL JONAS BARCELLOS CORREA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PROFESSORA DIRCE MARIA",
+                "NUMERO": 240,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Petrópolis",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0299,
+                -20.0155,
+                -44.0299,
+                -20.0155
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.77.Municipal.ESCOLA MUNICIPAL RUI DA COSTA VAL",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9281,
+                    -19.8297
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 77,
+                "NOME": "ESCOLA MUNICIPAL RUI DA COSTA VAL",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CECILIA TRINDADE SILVA",
+                "NUMERO": 221,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim Felicidade",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9281,
+                -19.8297,
+                -43.9281,
+                -19.8297
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.261.Municipal.ESCOLA MUNICIPAL JOAQUIM DOS SANTOS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9959,
+                    -19.8254
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 261,
+                "NOME": "ESCOLA MUNICIPAL JOAQUIM DOS SANTOS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ANTONIO JOSE DOS SANTOS",
+                "NUMERO": 300,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Céu Azul",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9959,
+                -19.8254,
+                -43.9959,
+                -19.8254
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.681.Municipal.ESCOLA MUNICIPAL DOUTOR JOSE XAVIER NOGUEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9628,
+                    -19.8027
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 681,
+                "NOME": "ESCOLA MUNICIPAL DOUTOR JOSE XAVIER NOGUEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "NAVARRA",
+                "NUMERO": 100,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Europa",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9628,
+                -19.8027,
+                -43.9628,
+                -19.8027
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.1141.Municipal.ESCOLA MUNICIPAL SERGIO MIRANDA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9138,
+                    -19.831
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 1141,
+                "NOME": "ESCOLA MUNICIPAL SERGIO MIRANDA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MINISTRO OSVALDO ARANHA",
+                "NUMERO": 345,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Granja Werneck",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9138,
+                -19.831,
+                -43.9138,
+                -19.831
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.80.Municipal.ESCOLA MUNICIPAL FRANCISCO MAGALHAES GOMES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9498,
+                    -19.8213
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 80,
+                "NOME": "ESCOLA MUNICIPAL FRANCISCO MAGALHAES GOMES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DOS MAMOEIROS",
+                "NUMERO": 98,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Vila Clóris",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9498,
+                -19.8213,
+                -43.9498,
+                -19.8213
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.513.Municipal.ESCOLA MUNICIPAL PROFESSORA MARIA MODESTA CRAVO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9208,
+                    -19.8902
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 513,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA MARIA MODESTA CRAVO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DOUTOR JULIO OTAVIANO FERREIRA",
+                "NUMERO": 1085,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Cidade Nova",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9208,
+                -19.8902,
+                -43.9208,
+                -19.8902
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.622.Municipal.ESCOLA MUNICIPAL PROFESSOR PAULO FREIRE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8951,
+                    -19.829
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 622,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR PAULO FREIRE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PAULO CAMPOS MENDES",
+                "NUMERO": 311,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Capitão Eduardo",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8951,
+                -19.829,
+                -43.8951,
+                -19.829
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.605.Municipal.ESCOLA MUNICIPAL ARMANDO ZILLER",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9836,
+                    -19.7853
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 605,
+                "NOME": "ESCOLA MUNICIPAL ARMANDO ZILLER",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "GERALDO ILIDIO TEIXEIRA",
+                "NUMERO": 283,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Mantiqueira",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9836,
+                -19.7853,
+                -43.9836,
+                -19.7853
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.272.Municipal.ESCOLA MUNICIPAL DEPUTADO RENATO AZEREDO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9923,
+                    -19.7967
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 272,
+                "NOME": "ESCOLA MUNICIPAL DEPUTADO RENATO AZEREDO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "AGUA",
+                "NUMERO": 240,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Maria Helena",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9923,
+                -19.7967,
+                -43.9923,
+                -19.7967
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.214.Municipal.ESCOLA MUNICIPAL PROFESSORA ONDINA NOBRE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0042,
+                    -19.825
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 214,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA ONDINA NOBRE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "RADIALISTA JOSE JUNQUILHO",
+                "NUMERO": 100,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Céu Azul",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -44.0042,
+                -19.825,
+                -44.0042,
+                -19.825
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.219.Municipal.ESCOLA MUNICIPAL PREFEITO AMINTHAS DE BARROS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9696,
+                    -19.9633
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 219,
+                "NOME": "ESCOLA MUNICIPAL PREFEITO AMINTHAS DE BARROS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SAN SALVADOR",
+                "NUMERO": 100,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Havaí",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9696,
+                -19.9633,
+                -43.9696,
+                -19.9633
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.118.Municipal.ESCOLA MUNICIPAL PROFESSOR EDSON PISANI",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9079,
+                    -19.938
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 118,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR EDSON PISANI",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "NOSSA SENHORA DE FATIMA",
+                "NUMERO": 1015,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Nossa Senhora de Fátima",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9079,
+                -19.938,
+                -43.9079,
+                -19.938
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.608.Municipal.ESCOLA MUNICIPAL MARLENE PEREIRA RANCANTE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0017,
+                    -19.8967
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 608,
+                "NOME": "ESCOLA MUNICIPAL MARLENE PEREIRA RANCANTE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DOS COMERCIANTES",
+                "NUMERO": 38,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Alípio de Melo",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -44.0017,
+                -19.8967,
+                -44.0017,
+                -19.8967
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.82.Municipal.ESCOLA MUNICIPAL ANTONIO GOMES HORTA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9555,
+                    -19.8119
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 82,
+                "NOME": "ESCOLA MUNICIPAL ANTONIO GOMES HORTA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ANTONIO JOSE DE OLIVEIRA",
+                "NUMERO": 161,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Minascaixa",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9555,
+                -19.8119,
+                -43.9555,
+                -19.8119
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.238.Municipal.ESCOLA MUNICIPAL HELENA ANTIPOFF",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0452,
+                    -19.9906
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 238,
+                "NOME": "ESCOLA MUNICIPAL HELENA ANTIPOFF",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ANTONIO EUSTAQUIO PIAZZA",
+                "NUMERO": 4020,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Tirol",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0452,
+                -19.9906,
+                -44.0452,
+                -19.9906
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.583.Municipal.ESCOLA MUNICIPAL GEORGE RICARDO SALUM",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8878,
+                    -19.9186
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 583,
+                "NOME": "ESCOLA MUNICIPAL GEORGE RICARDO SALUM",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "FOSFORO",
+                "NUMERO": 77,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Taquaril",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.8878,
+                -19.9186,
+                -43.8878,
+                -19.9186
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.514.Municipal.ESCOLA MUNICIPAL EMIDIO BERUTTO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.911,
+                    -19.8802
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 514,
+                "NOME": "ESCOLA MUNICIPAL EMIDIO BERUTTO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CONCEICAO DO PARA",
+                "NUMERO": 1726,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Inês",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.911,
+                -19.8802,
+                -43.911,
+                -19.8802
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.444.Municipal.ESCOLA MUNICIPAL CARMELITA CARVALHO GARCIA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9871,
+                    -19.8857
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 444,
+                "NOME": "ESCOLA MUNICIPAL CARMELITA CARVALHO GARCIA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "PCA",
+                "LOGRADOURO": "OLGA GATTI BARBOSA",
+                "NUMERO": 10,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Ouro Preto",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -43.9871,
+                -19.8857,
+                -43.9871,
+                -19.8857
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.555.Municipal.ESCOLA MUNICIPAL HONORINA DE BARROS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9463,
+                    -19.9026
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 555,
+                "NOME": "ESCOLA MUNICIPAL HONORINA DE BARROS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "PCA",
+                "LOGRADOURO": "PROFESSOR CORREA NETO",
+                "NUMERO": 200,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Cristóvão",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.9463,
+                -19.9026,
+                -43.9463,
+                -19.9026
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.245.Municipal.ESCOLA MUNICIPAL CONEGO SEQUEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0294,
+                    -20.0231
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 245,
+                "NOME": "ESCOLA MUNICIPAL CONEGO SEQUEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "FLOR CHUVA DE PRATA",
+                "NUMERO": 40,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Mineirão",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0294,
+                -20.0231,
+                -44.0294,
+                -20.0231
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.576.Municipal.ESCOLA MUNICIPAL SAO RAFAEL",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9066,
+                    -19.9137
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 576,
+                "NOME": "ESCOLA MUNICIPAL SAO RAFAEL",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CORONEL OTAVIO DINIZ",
+                "NUMERO": 31,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Pompéia",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.9066,
+                -19.9137,
+                -43.9066,
+                -19.9137
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.8.Municipal.ESCOLA MUNICIPAL DOM ORIONE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9788,
+                    -19.8678
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 8,
+                "NOME": "ESCOLA MUNICIPAL DOM ORIONE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "EXPEDICIONARIO BENVINDO BELEM DE LIMA",
+                "NUMERO": 900,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Luíz",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -43.9788,
+                -19.8678,
+                -43.9788,
+                -19.8678
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.269.Municipal.ESCOLA MUNICIPAL MOYSES KALIL",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.982,
+                    -19.7898
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 269,
+                "NOME": "ESCOLA MUNICIPAL MOYSES KALIL",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "AFONSO PEREIRA DA SILVA",
+                "NUMERO": 10,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Mantiqueira",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.982,
+                -19.7898,
+                -43.982,
+                -19.7898
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.65.Municipal.ESCOLA MUNICIPAL SALGADO FILHO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9786,
+                    -19.9504
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 65,
+                "NOME": "ESCOLA MUNICIPAL SALGADO FILHO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CLOVIS CYRILO LIMONGE",
+                "NUMERO": 151,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Salgado Filho",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9786,
+                -19.9504,
+                -43.9786,
+                -19.9504
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.2.Municipal.ESCOLA MUNICIPAL DE ENSINO ESPECIAL FREI LEOPOLDO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.979,
+                    -19.9506
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 2,
+                "NOME": "ESCOLA MUNICIPAL DE ENSINO ESPECIAL FREI LEOPOLDO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CLOVIS CYRILO LIMONGE",
+                "NUMERO": 141,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Salgado Filho",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.979,
+                -19.9506,
+                -43.979,
+                -19.9506
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.315.Municipal.ESCOLA MUNICIPAL PROFESSORA ALICE NACIF",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0158,
+                    -19.8672
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 315,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA ALICE NACIF",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "EXPEDICIONARIO PAULO DE SOUZA",
+                "NUMERO": 721,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Confisco",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -44.0158,
+                -19.8672,
+                -44.0158,
+                -19.8672
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.598.Municipal.ESCOLA MUNICIPAL MARCONI",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9549,
+                    -19.9313
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 598,
+                "NOME": "ESCOLA MUNICIPAL MARCONI",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "DO CONTORNO",
+                "NUMERO": 8476,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santo Agostinho",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9549,
+                -19.9313,
+                -43.9549,
+                -19.9313
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.663.Municipal.ESCOLA MUNICIPAL CIAC LUCAS MONTEIRO MACHADO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0265,
+                    -19.9999
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 663,
+                "NOME": "ESCOLA MUNICIPAL CIAC LUCAS MONTEIRO MACHADO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "OTAVIANO DE CARVALHO",
+                "NUMERO": 12,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Vila Pinho",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0265,
+                -19.9999,
+                -44.0265,
+                -19.9999
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.497.Municipal.ESCOLA MUNICIPAL HONORINA RABELLO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8957,
+                    -19.8573
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 497,
+                "NOME": "ESCOLA MUNICIPAL HONORINA RABELLO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MARIA CONCEICAO BONFIM",
+                "NUMERO": 315,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Goiânia",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8957,
+                -19.8573,
+                -43.8957,
+                -19.8573
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.231.Municipal.ESCOLA MUNICIPAL PROFESSOR MELLO CANCADO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0531,
+                    -19.9811
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 231,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR MELLO CANCADO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DAS PETUNIAS",
+                "NUMERO": 2058,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Lindéia",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0531,
+                -19.9811,
+                -44.0531,
+                -19.9811
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.250.Municipal.ESCOLA MUNICIPAL FRANCISCO CAMPOS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9225,
+                    -19.8345
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 250,
+                "NOME": "ESCOLA MUNICIPAL FRANCISCO CAMPOS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "HERALDO BELISARIO",
+                "NUMERO": 190,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Tupi A",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9225,
+                -19.8345,
+                -43.9225,
+                -19.8345
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.554.Municipal.ESCOLA MUNICIPAL CARLOS GOIS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.952,
+                    -19.9025
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 554,
+                "NOME": "ESCOLA MUNICIPAL CARLOS GOIS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MENDES DE OLIVEIRA",
+                "NUMERO": 446,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santo André",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.952,
+                -19.9025,
+                -43.952,
+                -19.9025
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.239.Municipal.ESCOLA MUNICIPAL SEBASTIAO GUILHERME DE OLIVEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0299,
+                    -19.9895
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 239,
+                "NOME": "ESCOLA MUNICIPAL SEBASTIAO GUILHERME DE OLIVEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CALENDULA",
+                "NUMERO": 10,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Olaria",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0299,
+                -19.9895,
+                -44.0299,
+                -19.9895
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.4.Municipal.ESCOLA MUNICIPAL HELIO PELLEGRINO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9249,
+                    -19.8451
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 4,
+                "NOME": "ESCOLA MUNICIPAL HELIO PELLEGRINO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "GUILHERME SOARES",
+                "NUMERO": 255,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Aarão Reis",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9249,
+                -19.8451,
+                -43.9249,
+                -19.8451
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.552.Municipal.ESCOLA MUNICIPAL BELO HORIZONTE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9474,
+                    -19.9035
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 552,
+                "NOME": "ESCOLA MUNICIPAL BELO HORIZONTE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "JOSE BONIFACIO",
+                "NUMERO": 189,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Cristóvão",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.9474,
+                -19.9035,
+                -43.9474,
+                -19.9035
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.310.Municipal.ESCOLA MUNICIPAL FRANCISCA ALVES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9968,
+                    -19.8679
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 310,
+                "NOME": "ESCOLA MUNICIPAL FRANCISCA ALVES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "SANTA TEREZINHA",
+                "NUMERO": 8,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Conjunto Lagoa",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -43.9968,
+                -19.8679,
+                -43.9968,
+                -19.8679
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.614.Municipal.ESCOLA MUNICIPAL ANISIO TEIXEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9259,
+                    -19.8835
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 614,
+                "NOME": "ESCOLA MUNICIPAL ANISIO TEIXEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "BOLIVAR",
+                "NUMERO": 10,
+                "COMPLEMENTO": null,
+                "BAIRRO": "União",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9259,
+                -19.8835,
+                -43.9259,
+                -19.8835
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.93.Municipal.ESCOLA MUNICIPAL ULYSSES GUIMARAES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9399,
+                    -19.951
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 93,
+                "NOME": "ESCOLA MUNICIPAL ULYSSES GUIMARAES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "BOLIVIA",
+                "NUMERO": 532,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Rita de Cássia",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9399,
+                -19.951,
+                -43.9399,
+                -19.951
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.224.Municipal.ESCOLA MUNICIPAL DULCE MARIA HOMEM",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0128,
+                    -19.9949
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 224,
+                "NOME": "ESCOLA MUNICIPAL DULCE MARIA HOMEM",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "TRES MARIAS",
+                "NUMERO": 221,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Miramar",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0128,
+                -19.9949,
+                -44.0128,
+                -19.9949
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.816.Municipal.ESCOLA MUNICIPAL ZILDA ARNS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9922,
+                    -19.818
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 816,
+                "NOME": "ESCOLA MUNICIPAL ZILDA ARNS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ERVA MATE",
+                "NUMERO": 46,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Piratininga",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9922,
+                -19.818,
+                -43.9922,
+                -19.818
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.610.Municipal.ESCOLA MUNICIPAL LUIZ GONZAGA JUNIOR",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0323,
+                    -20.0086
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 610,
+                "NOME": "ESCOLA MUNICIPAL LUIZ GONZAGA JUNIOR",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MARIA PEREIRA DAMASCENO",
+                "NUMERO": 65,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Ernesto do Nascimento",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0323,
+                -20.0086,
+                -44.0323,
+                -20.0086
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.254.Municipal.ESCOLA MUNICIPAL LIDIA ANGELICA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9584,
+                    -19.8385
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 254,
+                "NOME": "ESCOLA MUNICIPAL LIDIA ANGELICA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CORONEL INDIO DO BRASIL",
+                "NUMERO": 64,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Itapoã",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -43.9584,
+                -19.8385,
+                -43.9584,
+                -19.8385
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.247.Municipal.ESCOLA MUNICIPAL PROFESSORA ACIDALIA LOTT",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8906,
+                    -19.835
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 247,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA ACIDALIA LOTT",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ANTONIO MARIANO DE ABREU",
+                "NUMERO": 1231,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Paulo VI",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8906,
+                -19.835,
+                -43.8906,
+                -19.835
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.249.Municipal.ESCOLA MUNICIPAL SEBASTIANA NOVAIS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9194,
+                    -19.842
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 249,
+                "NOME": "ESCOLA MUNICIPAL SEBASTIANA NOVAIS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ANITA MALFATTI",
+                "NUMERO": 60,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Tupi B",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9194,
+                -19.842,
+                -43.9194,
+                -19.842
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.581.Municipal.ESCOLA MUNICIPAL ISRAEL PINHEIRO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8896,
+                    -19.9114
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 581,
+                "NOME": "ESCOLA MUNICIPAL ISRAEL PINHEIRO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DESEMBARGADOR BRAULIO",
+                "NUMERO": 1147,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Alto Vera Cruz",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.8896,
+                -19.9114,
+                -43.8896,
+                -19.9114
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.471.Municipal.ESCOLA MUNICIPAL MARIA SILVEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9444,
+                    -19.8479
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 471,
+                "NOME": "ESCOLA MUNICIPAL MARIA SILVEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "LIBANIA PENA",
+                "NUMERO": 201,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Bernardo",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9444,
+                -19.8479,
+                -43.9444,
+                -19.8479
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.78.Municipal.ESCOLA MUNICIPAL JARDIM FELICIDADE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9307,
+                    -19.8241
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 78,
+                "NOME": "ESCOLA MUNICIPAL JARDIM FELICIDADE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "QUARENTA E SETE A",
+                "NUMERO": 250,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim Felicidade",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9307,
+                -19.8241,
+                -43.9307,
+                -19.8241
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.69.Municipal.ESCOLA MUNICIPAL PREFEITO OSWALDO PIERUCCETTI",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.009,
+                    -19.91
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 69,
+                "NOME": "ESCOLA MUNICIPAL PREFEITO OSWALDO PIERUCCETTI",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CAITITE",
+                "NUMERO": 309,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Conjunto Jardim Filadélfia",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -44.009,
+                -19.91,
+                -44.009,
+                -19.91
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.255.Municipal.ESCOLA MUNICIPAL CORA CORALINA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9903,
+                    -19.8357
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 255,
+                "NOME": "ESCOLA MUNICIPAL CORA CORALINA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "LISBOA",
+                "NUMERO": 54,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Copacabana",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9903,
+                -19.8357,
+                -43.9903,
+                -19.8357
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.68.Municipal.ESCOLA MUNICIPAL LEVINDO LOPES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9047,
+                    -19.9234
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 68,
+                "NOME": "ESCOLA MUNICIPAL LEVINDO LOPES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "FLUORINA",
+                "NUMERO": 1460,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Paraíso",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.9047,
+                -19.9234,
+                -43.9047,
+                -19.9234
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.496.Municipal.ESCOLA MUNICIPAL AGENOR ALVES DE CARVALHO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.896,
+                    -19.8541
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 496,
+                "NOME": "ESCOLA MUNICIPAL AGENOR ALVES DE CARVALHO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "AGENOR ALVES",
+                "NUMERO": 53,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Nazaré",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.896,
+                -19.8541,
+                -43.896,
+                -19.8541
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.618.Municipal.ESCOLA MUNICIPAL PADRE GUILHERME PETERS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9155,
+                    -19.9326
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 618,
+                "NOME": "ESCOLA MUNICIPAL PADRE GUILHERME PETERS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CORONEL JORGE DAVIS",
+                "NUMERO": 300,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Nossa Senhora do Rosário",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9155,
+                -19.9326,
+                -43.9155,
+                -19.9326
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.524.Municipal.ESCOLA MUNICIPAL LUIGI TONIOLO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0174,
+                    -19.9024
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 524,
+                "NOME": "ESCOLA MUNICIPAL LUIGI TONIOLO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MAFRA",
+                "NUMERO": 124,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Novo Glória",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -44.0174,
+                -19.9024,
+                -44.0174,
+                -19.9024
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.243.Municipal.ESCOLA MUNICIPAL ANTONIO MOURAO GUIMARAES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0025,
+                    -20.0015
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 243,
+                "NOME": "ESCOLA MUNICIPAL ANTONIO MOURAO GUIMARAES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "INTERSINDICAL",
+                "NUMERO": 270,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Flávio de Oliveira",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0025,
+                -20.0015,
+                -44.0025,
+                -20.0015
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.584.Municipal.ESCOLA MUNICIPAL PROFESSOR JOAO CAMILO DE OLIVEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0094,
+                    -19.9293
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 584,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR JOAO CAMILO DE OLIVEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ESTER BATISTA VIEIRA",
+                "NUMERO": 12,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Califórnia",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -44.0094,
+                -19.9293,
+                -44.0094,
+                -19.9293
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.523.Municipal.ESCOLA MUNICIPAL PADRE EDEIMAR MASSOTE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0217,
+                    -19.8984
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 523,
+                "NOME": "ESCOLA MUNICIPAL PADRE EDEIMAR MASSOTE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ENEIDA",
+                "NUMERO": 1485,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Coqueiros",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -44.0217,
+                -19.8984,
+                -44.0217,
+                -19.8984
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.469.Municipal.ESCOLA MUNICIPAL SANTA TEREZINHA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0011,
+                    -19.8711
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 469,
+                "NOME": "ESCOLA MUNICIPAL SANTA TEREZINHA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CONCEICAO DA APARECIDA",
+                "NUMERO": 400,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Terezinha",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -44.0011,
+                -19.8711,
+                -44.0011,
+                -19.8711
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.498.Municipal.ESCOLA MUNICIPAL PROFESSORA HELENA ABDALLA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8835,
+                    -19.8578
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 498,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA HELENA ABDALLA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ARNALDO LOURENCO",
+                "NUMERO": 602,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Pousada Santo Antônio",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8835,
+                -19.8578,
+                -43.8835,
+                -19.8578
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.61.Municipal.ESCOLA MUNICIPAL JOAO DO PATROCINIO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9934,
+                    -19.9446
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 61,
+                "NOME": "ESCOLA MUNICIPAL JOAO DO PATROCINIO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SERINGUEIRA",
+                "NUMERO": 128,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Nova Gameleira",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9934,
+                -19.9446,
+                -43.9934,
+                -19.9446
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.623.Municipal.ESCOLA MUNICIPAL PROFESSOR HILTON ROCHA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0374,
+                    -20.0129
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 623,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR HILTON ROCHA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "VICENTE SURETTE",
+                "NUMERO": 215,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Mangueiras",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0374,
+                -20.0129,
+                -44.0374,
+                -20.0129
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.5.Municipal.ESCOLA MUNICIPAL PROFESSOR AMILCAR MARTINS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9717,
+                    -19.8317
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 5,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR AMILCAR MARTINS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PRELUDIO",
+                "NUMERO": 54,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Amélia",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -43.9717,
+                -19.8317,
+                -43.9717,
+                -19.8317
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.252.Municipal.ESCOLA MUNICIPAL TRISTAO DA CUNHA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.943,
+                    -19.8379
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 252,
+                "NOME": "ESCOLA MUNICIPAL TRISTAO DA CUNHA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DOUTOR JOSE FEROLLA",
+                "NUMERO": 80,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Planalto",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.943,
+                -19.8379,
+                -43.943,
+                -19.8379
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.240.Municipal.ESCOLA MUNICIPAL PROFESSORA ISAURA SANTOS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0091,
+                    -19.9893
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 240,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA ISAURA SANTOS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "HOFFMAN",
+                "NUMERO": 80,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Helena",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0091,
+                -19.9893,
+                -44.0091,
+                -19.9893
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.3.Municipal.ESCOLA MUNICIPAL PADRE MARZANO MATIAS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9747,
+                    -19.8152
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 3,
+                "NOME": "ESCOLA MUNICIPAL PADRE MARZANO MATIAS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ERICO VERISSIMO",
+                "NUMERO": 1280,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Rio Branco",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9747,
+                -19.8152,
+                -43.9747,
+                -19.8152
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.52.Municipal.ESCOLA MUNICIPAL SOBRAL PINTO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8832,
+                    -19.8329
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 52,
+                "NOME": "ESCOLA MUNICIPAL SOBRAL PINTO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DAS ALMAS",
+                "NUMERO": 1120,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Conjunto Paulo VI",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8832,
+                -19.8329,
+                -43.8832,
+                -19.8329
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.70.Municipal.ESCOLA MUNICIPAL GOVERNADOR OZANAM COELHO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8679,
+                    -19.8302
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 70,
+                "NOME": "ESCOLA MUNICIPAL GOVERNADOR OZANAM COELHO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ANGELA BENAREGES",
+                "NUMERO": 166,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Conjunto Capitão Eduardo",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8679,
+                -19.8302,
+                -43.8679,
+                -19.8302
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.259.Municipal.ESCOLA MUNICIPAL ANTONIA FERREIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9624,
+                    -19.8188
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 259,
+                "NOME": "ESCOLA MUNICIPAL ANTONIA FERREIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JOAO GUALBERTO DE ABREU",
+                "NUMERO": 10,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São João Batista",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9624,
+                -19.8188,
+                -43.9624,
+                -19.8188
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.213.Municipal.ESCOLA MUNICIPAL PROFESSORA ALCIDA TORRES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8843,
+                    -19.9164
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 213,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA ALCIDA TORRES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ALVARO FERNANDES",
+                "NUMERO": 144,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Taquaril",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.8843,
+                -19.9164,
+                -43.8843,
+                -19.9164
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.87.Municipal.ESCOLA MUNICIPAL PEDRO NAVA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9666,
+                    -19.9995
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 87,
+                "NOME": "ESCOLA MUNICIPAL PEDRO NAVA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SAO PEDRO DA ALDEIA",
+                "NUMERO": 445,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Serra do Curral",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -43.9666,
+                -19.9995,
+                -43.9666,
+                -19.9995
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.54.Municipal.ESCOLA MUNICIPAL PREFEITO SOUZA LIMA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8836,
+                    -19.8547
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 54,
+                "NOME": "ESCOLA MUNICIPAL PREFEITO SOUZA LIMA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DOS PARAGUAIOS",
+                "NUMERO": 97,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim Vitória",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8836,
+                -19.8547,
+                -43.8836,
+                -19.8547
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.612.Municipal.ESCOLA MUNICIPAL PROFESSOR EDGAR DA MATTA MACHADO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9049,
+                    -19.8539
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 612,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR EDGAR DA MATTA MACHADO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PENALVA",
+                "NUMERO": 201,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Dom Silvério",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9049,
+                -19.8539,
+                -43.9049,
+                -19.8539
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.222.Municipal.ESCOLA MUNICIPAL GRACY VIANNA LAGE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9716,
+                    -19.7892
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 222,
+                "NOME": "ESCOLA MUNICIPAL GRACY VIANNA LAGE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JOAO SOARES LEAL",
+                "NUMERO": 23,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim dos Comerciários",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9716,
+                -19.7892,
+                -43.9716,
+                -19.7892
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.79.Municipal.ESCOLA MUNICIPAL JOSE MARIA DOS MARES GUIA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9417,
+                    -19.8435
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 79,
+                "NOME": "ESCOLA MUNICIPAL JOSE MARIA DOS MARES GUIA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DOS BENEDITINOS",
+                "NUMERO": 180,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Heliópolis",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9417,
+                -19.8435,
+                -43.9417,
+                -19.8435
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.263.Municipal.ESCOLA MUNICIPAL ELISA BUZELIN",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9828,
+                    -19.8051
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 263,
+                "NOME": "ESCOLA MUNICIPAL ELISA BUZELIN",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JAIR AFONSO INACIO",
+                "NUMERO": 277,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Piratininga",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9828,
+                -19.8051,
+                -43.9828,
+                -19.8051
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.241.Municipal.ESCOLA MUNICIPAL PEDRO ALEIXO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0021,
+                    -19.994
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 241,
+                "NOME": "ESCOLA MUNICIPAL PEDRO ALEIXO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "MENELICK DE CARVALHO",
+                "NUMERO": 255,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Araguaia",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0021,
+                -19.994,
+                -44.0021,
+                -19.994
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.242.Municipal.ESCOLA MUNICIPAL ANA ALVES TEIXEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0067,
+                    -19.9991
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 242,
+                "NOME": "ESCOLA MUNICIPAL ANA ALVES TEIXEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "BARAO DO MONTE ALTO",
+                "NUMERO": 300,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Cardoso",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0067,
+                -19.9991,
+                -44.0067,
+                -19.9991
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.107.Municipal.ESCOLA MUNICIPAL PROFESSORA ELEONORA PIERUCCETTI",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9481,
+                    -19.8854
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 107,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA ELEONORA PIERUCCETTI",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "BERNARDO DE VASCONCELOS",
+                "NUMERO": 288,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Cachoeirinha",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9481,
+                -19.8854,
+                -43.9481,
+                -19.8854
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.616.Municipal.ESCOLA MUNICIPAL AURELIO PIRES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9523,
+                    -19.8651
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 616,
+                "NOME": "ESCOLA MUNICIPAL AURELIO PIRES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "BARRINHA",
+                "NUMERO": 171,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Indaiá",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -43.9523,
+                -19.8651,
+                -43.9523,
+                -19.8651
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.253.Municipal.ESCOLA MUNICIPAL MINERVINA AUGUSTA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9471,
+                    -19.8298
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 253,
+                "NOME": "ESCOLA MUNICIPAL MINERVINA AUGUSTA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DAVID CANABARRO",
+                "NUMERO": 18,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Campo Alegre",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9471,
+                -19.8298,
+                -43.9471,
+                -19.8298
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.613.Municipal.ESCOLA MUNICIPAL MARIA DA ASSUNCAO DE MARCO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9042,
+                    -19.8595
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 613,
+                "NOME": "ESCOLA MUNICIPAL MARIA DA ASSUNCAO DE MARCO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ANA HORTA",
+                "NUMERO": 98,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Goiânia",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9042,
+                -19.8595,
+                -43.9042,
+                -19.8595
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.445.Municipal.ESCOLA MUNICIPAL IGNACIO DE ANDRADE MELO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9979,
+                    -19.9005
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 445,
+                "NOME": "ESCOLA MUNICIPAL IGNACIO DE ANDRADE MELO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "VIOLETA DE MELO",
+                "NUMERO": 1005,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim São José",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -43.9979,
+                -19.9005,
+                -43.9979,
+                -19.9005
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.251.Municipal.ESCOLA MUNICIPAL HILDA RABELLO MATTA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9344,
+                    -19.8449
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 251,
+                "NOME": "ESCOLA MUNICIPAL HILDA RABELLO MATTA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JOVENTINA DA ROCHA",
+                "NUMERO": 72,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Heliópolis",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9344,
+                -19.8449,
+                -43.9344,
+                -19.8449
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.271.Municipal.ESCOLA MUNICIPAL MILTON CAMPOS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9848,
+                    -19.7961
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 271,
+                "NOME": "ESCOLA MUNICIPAL MILTON CAMPOS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JOVINO RODRIGUES PEGO",
+                "NUMERO": 195,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Mantiqueira",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9848,
+                -19.7961,
+                -43.9848,
+                -19.7961
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.94.Municipal.ESCOLA MUNICIPAL PAULO MENDES CAMPOS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.931,
+                    -19.9182
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 94,
+                "NOME": "ESCOLA MUNICIPAL PAULO MENDES CAMPOS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "ASSIS CHATEAUBRIAND",
+                "NUMERO": 429,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Floresta",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.931,
+                -19.9182,
+                -43.931,
+                -19.9182
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.230.Municipal.ESCOLA MUNICIPAL SENADOR LEVINDO COELHO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9149,
+                    -19.9438
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 230,
+                "NOME": "ESCOLA MUNICIPAL SENADOR LEVINDO COELHO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CARACA",
+                "NUMERO": 850,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Mangabeiras",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9149,
+                -19.9438,
+                -43.9149,
+                -19.9438
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.63.Municipal.ESCOLA MUNICIPAL PADRE HENRIQUE BRANDAO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0005,
+                    -19.9563
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 63,
+                "NOME": "ESCOLA MUNICIPAL PADRE HENRIQUE BRANDAO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CRISPIM JAQUES",
+                "NUMERO": 987,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Vista Alegre",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -44.0005,
+                -19.9563,
+                -44.0005,
+                -19.9563
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.262.Municipal.ESCOLA MUNICIPAL VICENTE GUIMARAES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9796,
+                    -19.8094
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 262,
+                "NOME": "ESCOLA MUNICIPAL VICENTE GUIMARAES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "IZAURA PEREIRA ALMEIDA",
+                "NUMERO": 110,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Letícia",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9796,
+                -19.8094,
+                -43.9796,
+                -19.8094
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.274.Municipal.ESCOLA MUNICIPAL SANTOS DUMONT",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9117,
+                    -19.9224
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 274,
+                "NOME": "ESCOLA MUNICIPAL SANTOS DUMONT",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "MEM DE SA",
+                "NUMERO": 600,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Efigênia",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.9117,
+                -19.9224,
+                -43.9117,
+                -19.9224
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.234.Municipal.ESCOLA MUNICIPAL ANTONIO ALEIXO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0138,
+                    -19.9735
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 234,
+                "NOME": "ESCOLA MUNICIPAL ANTONIO ALEIXO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "OLINTO MEIRELES",
+                "NUMERO": 250,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Barreiro",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0138,
+                -19.9735,
+                -44.0138,
+                -19.9735
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.57.Municipal.ESCOLA MUNICIPAL VINICIUS DE MORAES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0391,
+                    -19.99
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 57,
+                "NOME": "ESCOLA MUNICIPAL VINICIUS DE MORAES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SEBASTIAO MOREIRA",
+                "NUMERO": 409,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Tirol",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0391,
+                -19.99,
+                -44.0391,
+                -19.99
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.621.Municipal.ESCOLA MUNICIPAL JOSE DE CALASANZ",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.905,
+                    -19.8723
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 621,
+                "NOME": "ESCOLA MUNICIPAL JOSE DE CALASANZ",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SEBASTIAO SANTANA FILHO",
+                "NUMERO": 111,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Ipê",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.905,
+                -19.8723,
+                -43.905,
+                -19.8723
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.83.Municipal.ESCOLA MUNICIPAL DORA TOMICH LAENDER",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9594,
+                    -19.8062
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 83,
+                "NOME": "ESCOLA MUNICIPAL DORA TOMICH LAENDER",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JULITA NUNES LIMA",
+                "NUMERO": 53,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Conjunto Minascaixa",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9594,
+                -19.8062,
+                -43.9594,
+                -19.8062
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.64.Municipal.ESCOLA MUNICIPAL FRANCISCA DE PAULA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9832,
+                    -19.9577
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 64,
+                "NOME": "ESCOLA MUNICIPAL FRANCISCA DE PAULA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JULIO DE CASTILHO",
+                "NUMERO": 330,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Cinqüentenário",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9832,
+                -19.9577,
+                -43.9832,
+                -19.9577
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.568.Municipal.ESCOLA MUNICIPAL MONSENHOR JOAO RODRIGUES DE OLIVEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8972,
+                    -19.8982
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 568,
+                "NOME": "ESCOLA MUNICIPAL MONSENHOR JOAO RODRIGUES DE OLIVEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ARAPARI",
+                "NUMERO": 95,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Geraldo",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.8972,
+                -19.8982,
+                -43.8972,
+                -19.8982
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.507.Municipal.ESCOLA MUNICIPAL PROFESSOR CLAUDIO BRANDAO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9527,
+                    -19.8901
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 507,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR CLAUDIO BRANDAO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CANTAGALO",
+                "NUMERO": 1147,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Aparecida",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.9527,
+                -19.8901,
+                -43.9527,
+                -19.8901
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.218.Municipal.ESCOLA MUNICIPAL PROFESSOR MILTON LAGE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8849,
+                    -19.8517
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 218,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR MILTON LAGE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ITAGIBA MIRANDA RABELO",
+                "NUMERO": 70,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Vila Maria",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8849,
+                -19.8517,
+                -43.8849,
+                -19.8517
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.60.Municipal.ESCOLA MUNICIPAL AIRES DA MATA MACHADO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.035,
+                    -19.9941
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 60,
+                "NOME": "ESCOLA MUNICIPAL AIRES DA MATA MACHADO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "SENADOR LEVINDO COELHO",
+                "NUMERO": 632,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Tirol",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.035,
+                -19.9941,
+                -44.035,
+                -19.9941
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.625.Municipal.ESCOLA MUNICIPAL PROFESSOR DANIEL ALVARENGA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9289,
+                    -19.8034
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 625,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR DANIEL ALVARENGA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "COQUILHO",
+                "NUMERO": 155,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jaqueline",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9289,
+                -19.8034,
+                -43.9289,
+                -19.8034
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.548.Municipal.ESCOLA MUNICIPAL DOM JAIME DE BARROS CAMARA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.968,
+                    -19.9154
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 548,
+                "NOME": "ESCOLA MUNICIPAL DOM JAIME DE BARROS CAMARA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "FREDERICO BRACHER JUNIOR",
+                "NUMERO": 123,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Carlos Prates",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.968,
+                -19.9154,
+                -43.968,
+                -19.9154
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.88.Municipal.ESCOLA MUNICIPAL CARLOS DRUMMOND DE ANDRADE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9772,
+                    -19.8061
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 88,
+                "NOME": "ESCOLA MUNICIPAL CARLOS DRUMMOND DE ANDRADE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JOSE GALDING",
+                "NUMERO": 21,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Letícia",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9772,
+                -19.8061,
+                -43.9772,
+                -19.8061
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.75.Municipal.ESCOLA MUNICIPAL MONTEIRO LOBATO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9101,
+                    -19.8747
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 75,
+                "NOME": "ESCOLA MUNICIPAL MONTEIRO LOBATO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SANTA APOLONIA",
+                "NUMERO": 120,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Marcos",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9101,
+                -19.8747,
+                -43.9101,
+                -19.8747
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.236.Municipal.ESCOLA MUNICIPAL TENENTE MANOEL MAGALHAES PENIDO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.997,
+                    -19.9626
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 236,
+                "NOME": "ESCOLA MUNICIPAL TENENTE MANOEL MAGALHAES PENIDO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "AMUR",
+                "NUMERO": 60,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Betânia",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.997,
+                -19.9626,
+                -43.997,
+                -19.9626
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.84.Municipal.ESCOLA MUNICIPAL PRESIDENTE TANCREDO NEVES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0024,
+                    -19.8185
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 84,
+                "NOME": "ESCOLA MUNICIPAL PRESIDENTE TANCREDO NEVES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "RADIALISTA JOAQUIM DA FONSECA",
+                "NUMERO": 45,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Céu Azul",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -44.0024,
+                -19.8185,
+                -44.0024,
+                -19.8185
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.221.Municipal.ESCOLA MUNICIPAL JOSE MADUREIRA HORTA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9798,
+                    -19.8359
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 221,
+                "NOME": "ESCOLA MUNICIPAL JOSE MADUREIRA HORTA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JOAQUIM RAYMUNDO BRAGA",
+                "NUMERO": 40,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Amélia",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -43.9798,
+                -19.8359,
+                -43.9798,
+                -19.8359
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.237.Municipal.ESCOLA MUNICIPAL ANTONIO SALLES BARBOSA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0455,
+                    -19.9843
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 237,
+                "NOME": "ESCOLA MUNICIPAL ANTONIO SALLES BARBOSA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SABINO JOSE FERREIRA",
+                "NUMERO": 5,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Tirol",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0455,
+                -19.9843,
+                -44.0455,
+                -19.9843
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.232.Municipal.ESCOLA MUNICIPAL LUIZ GATTI",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0262,
+                    -19.9821
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 232,
+                "NOME": "ESCOLA MUNICIPAL LUIZ GATTI",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "O GARIMPEIRO",
+                "NUMERO": 45,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Ademar Maldonado",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0262,
+                -19.9821,
+                -44.0262,
+                -19.9821
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.609.Municipal.ESCOLA MUNICIPAL UNIAO COMUNITARIA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0145,
+                    -20.0004
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 609,
+                "NOME": "ESCOLA MUNICIPAL UNIAO COMUNITARIA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PROFESSOR LUIZ BICALHO",
+                "NUMERO": 505,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Brasil Industrial",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0145,
+                -20.0004,
+                -44.0145,
+                -20.0004
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.86.Municipal.ESCOLA MUNICIPAL DE ENSINO ESPECIAL DO BAIRRO VENDA NOVA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9788,
+                    -19.8085
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 86,
+                "NOME": "ESCOLA MUNICIPAL DE ENSINO ESPECIAL DO BAIRRO VENDA NOVA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CARLOS TORREZANI",
+                "NUMERO": 190,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Letícia",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9788,
+                -19.8085,
+                -43.9788,
+                -19.8085
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.264.Municipal.ESCOLA MUNICIPAL ADAUTO LUCIO CARDOSO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.998,
+                    -19.816
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 264,
+                "NOME": "ESCOLA MUNICIPAL ADAUTO LUCIO CARDOSO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ERNESTO GAZZOLLI",
+                "NUMERO": 164,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Céu Azul",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.998,
+                -19.816,
+                -43.998,
+                -19.816
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.256.Municipal.ESCOLA MUNICIPAL DESEMBARGADOR LORETO RIBEIRO DE ABREU",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9018,
+                    -19.8174
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 256,
+                "NOME": "ESCOLA MUNICIPAL DESEMBARGADOR LORETO RIBEIRO DE ABREU",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MARCOS DONATO DE LIMA",
+                "NUMERO": 520,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Ribeiro de Abreu",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9018,
+                -19.8174,
+                -43.9018,
+                -19.8174
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.446.Municipal.ESCOLA MUNICIPAL JULIA PARAISO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.006,
+                    -19.8959
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 446,
+                "NOME": "ESCOLA MUNICIPAL JULIA PARAISO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "TIES",
+                "NUMERO": 100,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Alípio de Melo",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -44.006,
+                -19.8959,
+                -44.006,
+                -19.8959
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.1193.Municipal.ESCOLA MUNICIPAL JARDIM VITORIA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8721,
+                    -19.8575
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 1193,
+                "NOME": "ESCOLA MUNICIPAL JARDIM VITORIA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "LOURDES GONCALVES BARBOSA",
+                "NUMERO": 160,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim Vitória",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8721,
+                -19.8575,
+                -43.8721,
+                -19.8575
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.682.Municipal.ESCOLA MUNICIPAL VILA FAZENDINHA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9062,
+                    -19.9311
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 682,
+                "NOME": "ESCOLA MUNICIPAL VILA FAZENDINHA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PAULO DE SOUZA",
+                "NUMERO": 51,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Fazendinha",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9062,
+                -19.9311,
+                -43.9062,
+                -19.9311
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.530.Municipal.ESCOLA MUNICIPAL MARIA DE REZENDE COSTA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9999,
+                    -19.9063
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 530,
+                "NOME": "ESCOLA MUNICIPAL MARIA DE REZENDE COSTA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "ABILIO MACHADO",
+                "NUMERO": 1009,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Glória",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.9999,
+                -19.9063,
+                -43.9999,
+                -19.9063
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.680.Municipal.ESCOLA MUNICIPAL ACADEMICO VIVALDI MOREIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9403,
+                    -19.806
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 680,
+                "NOME": "ESCOLA MUNICIPAL ACADEMICO VIVALDI MOREIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "AGENOR DE PAULA ESTRELA",
+                "NUMERO": 393,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jaqueline",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9403,
+                -19.806,
+                -43.9403,
+                -19.806
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.235.Municipal.ESCOLA MUNICIPAL MESTRE ATAIDE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9888,
+                    -19.968
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 235,
+                "NOME": "ESCOLA MUNICIPAL MESTRE ATAIDE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "AUGUSTO JOSE DOS SANTOS",
+                "NUMERO": 560,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Estrela do Oriente",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9888,
+                -19.968,
+                -43.9888,
+                -19.968
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.506.Municipal.ESCOLA MUNICIPAL NOSSA SENHORA DO AMPARO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9509,
+                    -19.8895
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 506,
+                "NOME": "ESCOLA MUNICIPAL NOSSA SENHORA DO AMPARO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "HESPERIA",
+                "NUMERO": 300,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Aparecida",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.9509,
+                -19.8895,
+                -43.9509,
+                -19.8895
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.260.Municipal.ESCOLA MUNICIPAL GERALDO TEIXEIRA DA COSTA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9762,
+                    -19.8151
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 260,
+                "NOME": "ESCOLA MUNICIPAL GERALDO TEIXEIRA DA COSTA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MARCIO LIMA PAIXAO",
+                "NUMERO": 9,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Rio Branco",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9762,
+                -19.8151,
+                -43.9762,
+                -19.8151
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.212.Municipal.ESCOLA MUNICIPAL OSWALDO CRUZ",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9696,
+                    -19.9545
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 212,
+                "NOME": "ESCOLA MUNICIPAL OSWALDO CRUZ",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SANTOS",
+                "NUMERO": 2200,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim América",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9696,
+                -19.9545,
+                -43.9696,
+                -19.9545
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.511.Municipal.ESCOLA MUNICIPAL GOVERNADOR CARLOS LACERDA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9322,
+                    -19.8858
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 511,
+                "NOME": "ESCOLA MUNICIPAL GOVERNADOR CARLOS LACERDA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PRINCESA LEOPOLDINA",
+                "NUMERO": 490,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Ipiranga",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9322,
+                -19.8858,
+                -43.9322,
+                -19.8858
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.76.Municipal.ESCOLA MUNICIPAL ANNE FRANK",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0204,
+                    -19.8671
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 76,
+                "NOME": "ESCOLA MUNICIPAL ANNE FRANK",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CECILIA MAGALHAES GOMES",
+                "NUMERO": 445,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Confisco",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -44.0204,
+                -19.8671,
+                -44.0204,
+                -19.8671
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.74.Municipal.ESCOLA MUNICIPAL HENRIQUETA LISBOA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9143,
+                    -19.8739
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 74,
+                "NOME": "ESCOLA MUNICIPAL HENRIQUETA LISBOA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "GEORGINA PADUA",
+                "NUMERO": 297,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Penha",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9143,
+                -19.8739,
+                -43.9143,
+                -19.8739
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.258.Municipal.ESCOLA MUNICIPAL TANCREDO PHIDEAS GUIMARAES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9501,
+                    -19.8148
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 258,
+                "NOME": "ESCOLA MUNICIPAL TANCREDO PHIDEAS GUIMARAES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SATURNO",
+                "NUMERO": 400,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Parque São Pedro",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9501,
+                -19.8148,
+                -43.9501,
+                -19.8148
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.624.Municipal.ESCOLA MUNICIPAL THEOMAR DE CASTRO ESPINDOLA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9187,
+                    -19.9297
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 624,
+                "NOME": "ESCOLA MUNICIPAL THEOMAR DE CASTRO ESPINDOLA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MICA",
+                "NUMERO": 144,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Nossa Senhora da Aparecida",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9187,
+                -19.9297,
+                -43.9187,
+                -19.9297
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.55.Municipal.ESCOLA MUNICIPAL EDITH PIMENTA DA VEIGA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0314,
+                    -19.9962
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 55,
+                "NOME": "ESCOLA MUNICIPAL EDITH PIMENTA DA VEIGA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "ALA",
+                "LOGRADOURO": "VARGEM GRANDE",
+                "NUMERO": 38,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Castanheira",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0314,
+                -19.9962,
+                -44.0314,
+                -19.9962
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.72.Municipal.ESCOLA MUNICIPAL PROFESSORA MARIA MAZARELLO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8927,
+                    -19.8538
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 72,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA MARIA MAZARELLO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "BENEDITO NEVES",
+                "NUMERO": 45,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Nazaré",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8927,
+                -19.8538,
+                -43.8927,
+                -19.8538
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.109.Municipal.ESCOLA MUNICIPAL PRESIDENTE JOAO PESSOA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9416,
+                    -19.9436
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 109,
+                "NOME": "ESCOLA MUNICIPAL PRESIDENTE JOAO PESSOA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CONGONHAS",
+                "NUMERO": 639,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santo Antônio",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9416,
+                -19.9436,
+                -43.9416,
+                -19.9436
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.267.Municipal.ESCOLA MUNICIPAL MARIO MOURAO FILHO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0043,
+                    -19.8122
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 267,
+                "NOME": "ESCOLA MUNICIPAL MARIO MOURAO FILHO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MARIA GERTRUDES SANTOS",
+                "NUMERO": 1029,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Céu Azul",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -44.0043,
+                -19.8122,
+                -44.0043,
+                -19.8122
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.257.Municipal.ESCOLA MUNICIPAL SECRETARIO HUMBERTO ALMEIDA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9027,
+                    -19.8221
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 257,
+                "NOME": "ESCOLA MUNICIPAL SECRETARIO HUMBERTO ALMEIDA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "TRV",
+                "LOGRADOURO": "SERRA DO ITATIAIA",
+                "NUMERO": 3,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Ribeiro de Abreu",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9027,
+                -19.8221,
+                -43.9027,
+                -19.8221
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.71.Municipal.ESCOLA MUNICIPAL OSWALDO FRANCA JUNIOR",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9131,
+                    -19.8535
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 71,
+                "NOME": "ESCOLA MUNICIPAL OSWALDO FRANCA JUNIOR",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CIRCULAR",
+                "NUMERO": 335,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Gabriel",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9131,
+                -19.8535,
+                -43.9131,
+                -19.8535
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.56.Municipal.ESCOLA MUNICIPAL AURELIO BUARQUE DE HOLANDA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.058,
+                    -19.9771
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 56,
+                "NOME": "ESCOLA MUNICIPAL AURELIO BUARQUE DE HOLANDA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "FORTUNATO BRUNO DINIZ",
+                "NUMERO": 40,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Lindéia",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.058,
+                -19.9771,
+                -44.058,
+                -19.9771
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.314.Municipal.ESCOLA MUNICIPAL MARIA DE MAGALHAES PINTO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0066,
+                    -19.8753
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 314,
+                "NOME": "ESCOLA MUNICIPAL MARIA DE MAGALHAES PINTO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SENADOR VIRGILIO TAVORA",
+                "NUMERO": 150,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Terezinha",
+                "REGIONAL": "PAMPULHA"
+            },
+            "bbox": [
+                -44.0066,
+                -19.8753,
+                -44.0066,
+                -19.8753
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.582.Municipal.ESCOLA MUNICIPAL DOUTOR JULIO SOARES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8835,
+                    -19.9077
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 582,
+                "NOME": "ESCOLA MUNICIPAL DOUTOR JULIO SOARES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SAO VICENTE",
+                "NUMERO": 200,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Granja de Freitas",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.8835,
+                -19.9077,
+                -43.8835,
+                -19.9077
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.217.Municipal.ESCOLA MUNICIPAL DINORAH MAGALHAES FABRI",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9906,
+                    -19.994
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 217,
+                "NOME": "ESCOLA MUNICIPAL DINORAH MAGALHAES FABRI",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PAVAO",
+                "NUMERO": 295,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Esperança",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -43.9906,
+                -19.994,
+                -43.9906,
+                -19.994
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.246.Municipal.ESCOLA MUNICIPAL PERSIO PEREIRA PINTO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8777,
+                    -19.839
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 246,
+                "NOME": "ESCOLA MUNICIPAL PERSIO PEREIRA PINTO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "ROD",
+                "LOGRADOURO": "ANEL RODOVIARIO CELSO MELLO AZEVEDO",
+                "NUMERO": 28177,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Capitão Eduardo",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8777,
+                -19.839,
+                -43.8777,
+                -19.839
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.53.Municipal.ESCOLA MUNICIPAL HUGO PINHEIRO SOARES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9402,
+                    -19.898
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 53,
+                "NOME": "ESCOLA MUNICIPAL HUGO PINHEIRO SOARES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JUNDIAI",
+                "NUMERO": 567,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Concórdia",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9402,
+                -19.898,
+                -43.9402,
+                -19.898
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.551.Municipal.ESCOLA MUNICIPAL AMERICO RENE GIANNETTI",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9403,
+                    -19.8983
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 551,
+                "NOME": "ESCOLA MUNICIPAL AMERICO RENE GIANNETTI",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JUNDIAI",
+                "NUMERO": 557,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Concórdia",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9403,
+                -19.8983,
+                -43.9403,
+                -19.8983
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.611.Municipal.ESCOLA MUNICIPAL PADRE FRANCISCO CARVALHO MOREIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9038,
+                    -19.8993
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 611,
+                "NOME": "ESCOLA MUNICIPAL PADRE FRANCISCO CARVALHO MOREIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ITAITUBA",
+                "NUMERO": 12,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Geraldo",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.9038,
+                -19.8993,
+                -43.9038,
+                -19.8993
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.474.Municipal.ESCOLA MUNICIPAL JOSEFINA SOUZA LIMA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9309,
+                    -19.8564
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 474,
+                "NOME": "ESCOLA MUNICIPAL JOSEFINA SOUZA LIMA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "MARIA ORTIZ",
+                "NUMERO": 195,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Minaslândia",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9309,
+                -19.8564,
+                -43.9309,
+                -19.8564
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.59.Municipal.ESCOLA MUNICIPAL DA VILA PINHO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0233,
+                    -20.0035
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 59,
+                "NOME": "ESCOLA MUNICIPAL DA VILA PINHO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "COLETORA",
+                "NUMERO": 956,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Vila Pinho",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0233,
+                -20.0035,
+                -44.0233,
+                -20.0035
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.569.Municipal.ESCOLA MUNICIPAL PROFESSOR DOMICIANO VIEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9158,
+                    -19.9028
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 569,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR DOMICIANO VIEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SAO BENTO",
+                "NUMERO": 1591,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Sagrada Família",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.9158,
+                -19.9028,
+                -43.9158,
+                -19.9028
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.229.Municipal.ESCOLA MUNICIPAL BENJAMIM JACOB",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9369,
+                    -19.9538
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 229,
+                "NOME": "ESCOLA MUNICIPAL BENJAMIM JACOB",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "VENEZUELA",
+                "NUMERO": 643,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Sion",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9369,
+                -19.9538,
+                -43.9369,
+                -19.9538
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.290.Municipal.ESCOLA MUNICIPAL FLORESTAN FERNANDES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9246,
+                    -19.8215
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 290,
+                "NOME": "ESCOLA MUNICIPAL FLORESTAN FERNANDES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PAU-FERRO",
+                "NUMERO": 360,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Solimões",
+                "REGIONAL": "NORTE"
+            },
+            "bbox": [
+                -43.9246,
+                -19.8215,
+                -43.9246,
+                -19.8215
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.266.Municipal.ESCOLA MUNICIPAL PROFESSOR MOACYR ANDRADE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9972,
+                    -19.8076
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 266,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR MOACYR ANDRADE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DOS CACADORES",
+                "NUMERO": 93,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Lagoa",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9972,
+                -19.8076,
+                -43.9972,
+                -19.8076
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.216.Municipal.ESCOLA MUNICIPAL WLADIMIR DE PAULA GOMES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8906,
+                    -19.8992
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 216,
+                "NOME": "ESCOLA MUNICIPAL WLADIMIR DE PAULA GOMES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "UARIRA",
+                "NUMERO": 350,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Casa Branca",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.8906,
+                -19.8992,
+                -43.8906,
+                -19.8992
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.1192.Municipal.ESCOLA MUNICIPAL JARDIM LEBLON",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9855,
+                    -19.8268
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 1192,
+                "NOME": "ESCOLA MUNICIPAL JARDIM LEBLON",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SILVA XAVIER",
+                "NUMERO": 15,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim Leblon",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9855,
+                -19.8268,
+                -43.9855,
+                -19.8268
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.541.Municipal.ESCOLA MUNICIPAL MONSENHOR ARTUR DE OLIVEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9651,
+                    -19.9061
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 541,
+                "NOME": "ESCOLA MUNICIPAL MONSENHOR ARTUR DE OLIVEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "FORNACIARI",
+                "NUMERO": 157,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Caiçaras",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -43.9651,
+                -19.9061,
+                -43.9651,
+                -19.9061
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.1421.Municipal.ESCOLA MUNICIPAL POLO DE EDUCAÇÃO INTEGRADA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0059,
+                    -19.9961
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 1421,
+                "NOME": "ESCOLA MUNICIPAL POLO DE EDUCAÇÃO INTEGRADA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "PCA",
+                "LOGRADOURO": "MODESTINO SALES BARBOSA",
+                "NUMERO": 50,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Flávio Marques Lisboa",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0059,
+                -19.9961,
+                -44.0059,
+                -19.9961
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.73.Municipal.ESCOLA MUNICIPAL MURILO RUBIAO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8964,
+                    -19.8476
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 73,
+                "NOME": "ESCOLA MUNICIPAL MURILO RUBIAO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "HERACLITO",
+                "NUMERO": 232,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Acaiaca",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8964,
+                -19.8476,
+                -43.8964,
+                -19.8476
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.619.Municipal.ESCOLA MUNICIPAL FERNANDO DIAS COSTA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8779,
+                    -19.9197
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 619,
+                "NOME": "ESCOLA MUNICIPAL FERNANDO DIAS COSTA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PEDRO ALEXANDRINO MENDONCA",
+                "NUMERO": 59,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Conjunto Taquaril",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.8779,
+                -19.9197,
+                -43.8779,
+                -19.9197
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.58.Municipal.ESCOLA MUNICIPAL ELOY HERALDO LIMA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0416,
+                    -20.0049
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 58,
+                "NOME": "ESCOLA MUNICIPAL ELOY HERALDO LIMA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ENGRACIA COSTA E SILVA",
+                "NUMERO": 56,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Vale do Jatobá",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0416,
+                -20.0049,
+                -44.0416,
+                -20.0049
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.673.Municipal.ESCOLA MUNICIPAL DOM BOSCO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0001,
+                    -19.9166
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 673,
+                "NOME": "ESCOLA MUNICIPAL DOM BOSCO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "BICUIBA",
+                "NUMERO": 100,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Dom Bosco",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -44.0001,
+                -19.9166,
+                -44.0001,
+                -19.9166
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.597.Municipal.ESCOLA MUNICIPAL MAGALHAES DRUMOND",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9713,
+                    -19.9312
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 597,
+                "NOME": "ESCOLA MUNICIPAL MAGALHAES DRUMOND",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "CONTENDAS",
+                "NUMERO": 200,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Alto Barroca",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9713,
+                -19.9312,
+                -43.9713,
+                -19.9312
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.233.Municipal.ESCOLA MUNICIPAL PADRE FLAVIO GIAMMETTA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0273,
+                    -19.9777
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 233,
+                "NOME": "ESCOLA MUNICIPAL PADRE FLAVIO GIAMMETTA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SEBASTIAO MARIA DA SILVA",
+                "NUMERO": 175,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Átila de Paiva",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0273,
+                -19.9777,
+                -44.0273,
+                -19.9777
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.248.Municipal.ESCOLA MUNICIPAL PROFESSORA CONSUELITA CANDIDA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.8998,
+                    -19.8451
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 248,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA CONSUELITA CANDIDA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "DOM SILVERIO GOMES PIMENTA",
+                "NUMERO": 301,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Belmonte",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.8998,
+                -19.8451,
+                -43.8998,
+                -19.8451
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.67.Municipal.ESCOLA MUNICIPAL PROFESSOR LOURENCO DE OLIVEIRA",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9112,
+                    -19.9133
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 67,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR LOURENCO DE OLIVEIRA",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "SAO GOTARDO",
+                "NUMERO": 321,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Tereza",
+                "REGIONAL": "LESTE"
+            },
+            "bbox": [
+                -43.9112,
+                -19.9133,
+                -43.9112,
+                -19.9133
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.1161.Municipal.ESCOLA MUNICIPAL SOLAR RUBI",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0144,
+                    -20.0115
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 1161,
+                "NOME": "ESCOLA MUNICIPAL SOLAR RUBI",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "AVE",
+                "LOGRADOURO": "WARLEY APARECIDO MARTINS",
+                "NUMERO": 854,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Solar do Barreiro",
+                "REGIONAL": "BARREIRO"
+            },
+            "bbox": [
+                -44.0144,
+                -20.0115,
+                -44.0144,
+                -20.0115
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.499.Municipal.ESCOLA MUNICIPAL AUGUSTA MEDEIROS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0149,
+                    -19.8912
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 499,
+                "NOME": "ESCOLA MUNICIPAL AUGUSTA MEDEIROS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "GENERAL CLARK",
+                "NUMERO": 28,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Salvador",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -44.0149,
+                -19.8912,
+                -44.0149,
+                -19.8912
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.265.Municipal.ESCOLA MUNICIPAL CONEGO RAIMUNDO TRINDADE",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9891,
+                    -19.8061
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 265,
+                "NOME": "ESCOLA MUNICIPAL CONEGO RAIMUNDO TRINDADE",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "BRODOSQUI",
+                "NUMERO": 51,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Piratininga",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9891,
+                -19.8061,
+                -43.9891,
+                -19.8061
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.62.Municipal.ESCOLA MUNICIPAL PROFESSORA EFIGENIA VIDIGAL",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9826,
+                    -19.97
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 62,
+                "NOME": "ESCOLA MUNICIPAL PROFESSORA EFIGENIA VIDIGAL",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "JOSE GUALBERTO",
+                "NUMERO": 295,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Palmeiras",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9826,
+                -19.97,
+                -43.9826,
+                -19.97
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.227.Municipal.ESCOLA MUNICIPAL DEPUTADO MILTON SALLES",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9693,
+                    -19.9552
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 227,
+                "NOME": "ESCOLA MUNICIPAL DEPUTADO MILTON SALLES",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "TEOFILO FILHO",
+                "NUMERO": 222,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Jardim América",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9693,
+                -19.9552,
+                -43.9693,
+                -19.9552
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.228.Municipal.ESCOLA MUNICIPAL HUGO WERNECK",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9632,
+                    -19.9427
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 228,
+                "NOME": "ESCOLA MUNICIPAL HUGO WERNECK",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "OSCAR TROMPOWSKY",
+                "NUMERO": 1372,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Grajaú",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -43.9632,
+                -19.9427,
+                -43.9632,
+                -19.9427
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.590.Municipal.ESCOLA MUNICIPAL JOAO PINHEIRO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44,
+                    -19.9335
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 590,
+                "NOME": "ESCOLA MUNICIPAL JOAO PINHEIRO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "PADRE MANOEL BERNARDES",
+                "NUMERO": 303,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Oeste",
+                "REGIONAL": "NOROESTE"
+            },
+            "bbox": [
+                -44,
+                -19.9335,
+                -44,
+                -19.9335
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.6.Municipal.ESCOLA MUNICIPAL PROFESSOR MARIO WERNECK",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.0134,
+                    -19.9363
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 6,
+                "NOME": "ESCOLA MUNICIPAL PROFESSOR MARIO WERNECK",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ABATI",
+                "NUMERO": 38,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Santa Maria",
+                "REGIONAL": "OESTE"
+            },
+            "bbox": [
+                -44.0134,
+                -19.9363,
+                -44.0134,
+                -19.9363
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.483.Municipal.ESCOLA MUNICIPAL FRANCISCO BRESSANE DE AZEVEDO",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9246,
+                    -19.8662
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 483,
+                "NOME": "ESCOLA MUNICIPAL FRANCISCO BRESSANE DE AZEVEDO",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "AIURUOCA",
+                "NUMERO": 501,
+                "COMPLEMENTO": null,
+                "BAIRRO": "São Paulo",
+                "REGIONAL": "NORDESTE"
+            },
+            "bbox": [
+                -43.9246,
+                -19.8662,
+                -43.9246,
+                -19.8662
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.225.Municipal.ESCOLA MUNICIPAL MESTRE PARANHOS",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9596,
+                    -19.9517
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 225,
+                "NOME": "ESCOLA MUNICIPAL MESTRE PARANHOS",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "ALCIDA TORRES",
+                "NUMERO": 25,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Conjunto Santa Maria",
+                "REGIONAL": "CENTRO-SUL"
+            },
+            "bbox": [
+                -43.9596,
+                -19.9517,
+                -43.9596,
+                -19.9517
+            ]
+        },
+        {
+            "type": "Feature",
+            "id": "ESCOLAS_MUNICIPAIS_ENSINO_FUNDAMENTAL.268.Municipal.ESCOLA MUNICIPAL JOSE MARIA ALKMIM",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -43.9543,
+                    -19.7981
+                ]
+            },
+            "geometry_name": "GEOMETRIA",
+            "properties": {
+                "ID_EQ_ED": 268,
+                "NOME": "ESCOLA MUNICIPAL JOSE MARIA ALKMIM",
+                "INSTANCIA": "Municipal",
+                "TIPO_LOGRADOURO": "RUA",
+                "LOGRADOURO": "BENIGNO FAGUNDES DA SILVA",
+                "NUMERO": 33,
+                "COMPLEMENTO": null,
+                "BAIRRO": "Serra Verde",
+                "REGIONAL": "VENDA NOVA"
+            },
+            "bbox": [
+                -43.9543,
+                -19.7981,
+                -43.9543,
+                -19.7981
+            ]
+        }
+    ],
+    "totalFeatures": 178,
+    "numberMatched": 178,
+    "numberReturned": 178,
+    "timeStamp": "2020-11-22T22:30:44.335Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    },
+    "bbox": [
+        -44.058,
+        -20.0231,
+        -43.8679,
+        -19.7853
+    ]
+}
